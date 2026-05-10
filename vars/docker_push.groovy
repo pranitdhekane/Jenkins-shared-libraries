@@ -4,5 +4,5 @@ def call(String dockerhubuser, String projectname, String imagetag){
     
         
     }
-    sh "docker push ${dockerhubuser}/${projectname}:${imagetag}
+    sh "docker push ${dockerhubuser}/${projectname}:${imagetag}"
 }
