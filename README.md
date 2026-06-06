@@ -29,13 +29,13 @@ Manage Jenkins
 
 2. Add a new library:
 
-| Field            | Value                                                  |
-| ---------------- | ------------------------------------------------------ |
-| Name             | shared-library                                         |
-| Default Version  | main                                                   |
-| Retrieval Method | Modern SCM                                             |
-| SCM              | Git                                                    |
-| Repository URL   | https://github.com/your-org/jenkins-shared-library.git |
+| Field            | Value                                                        |
+| ---------------- | -----------------------------------------------------------  |
+| Name             | shared-library                                               |
+| Default Version  | main                                                         |
+| Retrieval Method | Modern SCM                                                   |
+| SCM              | Git                                                          |
+| Repository URL   | https://github.com/pranitdhekane/Jenkins-shared-libraries.git|
 
 3. Save the configuration.
 
